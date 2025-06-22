@@ -40,7 +40,8 @@ If you are developing a production application, we recommend using TypeScript wi
 - ✅ Sign In & Sign Up Pages (Basic Form)
 - ✅ Clean Component Structure
 
-- git clone https://github.com/username/indotrade-clone.git
-- cd indotrade-clone
-- pnpm install
-- pnpm dev
+```bash
+  git clone https://github.com/mhadityaps05/Indotrade-test
+  cd indotrade-clone
+  pnpm install
+  pnpm dev
